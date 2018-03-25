@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\board.o
+./debug\floodit.o
+./debug\position.o
+./debug\subject.o
+./debug\mainwindow.o
+./debug\json.o
+./debug\dialogend.o
+./debug\moc_mainwindow.o
+./debug\moc_dialogend.o
+);

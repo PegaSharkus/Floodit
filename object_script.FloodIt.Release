@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\board.o
+./release\floodit.o
+./release\position.o
+./release\subject.o
+./release\mainwindow.o
+./release\json.o
+./release\dialogend.o
+./release\moc_mainwindow.o
+./release\moc_dialogend.o
+);
